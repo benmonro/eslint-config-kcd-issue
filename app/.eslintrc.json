@@ -5,8 +5,7 @@
         "jest":true
     },
     "extends": [
-        "eslint:recommended",
-        "plugin:react/recommended"
+        "my-thing"
     ],
     "globals": {
         "Atomics": "readonly",
