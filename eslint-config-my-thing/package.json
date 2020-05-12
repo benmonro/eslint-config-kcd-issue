@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-my-thing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-kentcdodds": "^14.12.0"
+  }
+}
